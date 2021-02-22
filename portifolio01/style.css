@@ -1,0 +1,107 @@
+.restaurante{
+    text-align: center;
+    font-style: oblique;
+    font-size: 20px;
+    margin: 0%;
+    margin-bottom: 90px;
+    color: rgb(255, 255, 255);
+    padding-bottom: 10px;
+}
+.logo{
+    background: tomato;
+    border-radius:10px;
+    margin-left: 110px;
+    margin-right: 50px;
+}
+
+body{
+    height: 100%;
+    width: 99%;
+    background-image: url(frutos.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.conteudo{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: 100px;
+}
+.card-img1 img{
+    padding: 5px;  
+    border-radius: 10%;
+}
+
+.card{
+    background: #0c0c0c;
+    text-align: center;
+    width:27%;
+    height:auto;
+    padding: 20px;
+    padding-top: 10px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.card-cabecalho{
+    padding-bottom: 40px;
+    color: #ffffff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card-button{
+    border: none;
+    color: #ffff;
+    background: rgb(253, 2, 2);
+    margin-top: 10%;
+}
+h1{
+    font-family: "Monoton";
+    color: rgba(7, 7, 7, 0.616);
+    font-size: 50px;
+    text-align: center;
+    margin: 0%;
+}
+.menu-bara{
+    font-family: "Monoton";
+    font-size: 20px;
+}
+.menu{
+    background: black;
+    height: 50px;
+    margin: 0%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 60px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    font-family:"Anton";
+}
+
+.menu ul{
+    margin: 0%;
+    list-style: none;
+}
+.menu ul li{
+    display: inline;
+}
+.menu ul li nav {
+    padding: 8px 10px;
+    display: inline-block;
+    color: #ffffff;
+    text-decoration: none;
+
+}
+.menu ul li nav:hover{
+    color: rgb(70, 32, 65);
+}
+.menu-bara{
+    margin-left: 230px;
+
+}
+body{
+    background: "frutos.jpg";
+}
+.card-corpo{
+    color: #ffffff;
+}
