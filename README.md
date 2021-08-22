@@ -1,7 +1,7 @@
 # Restaurante Baratie ☠️🏴‍☠️
 
 
-- ### link : https://victorn7.github.io/Portifolio/portifolio01/index.html
+- ### link : https://victorn7.github.io/RestauranteBaratie/portifolio01/index.html
 
 ## Baratie 🥂🐟
 
